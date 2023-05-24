@@ -1,0 +1,98 @@
+commit 630552c69c33d2c5f2d35fa774c414743c1771a5
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Mon May 22 17:22:01 2023 -0600
+
+    Agregando 2 parrafos lorem
+
+commit 6bb2d649c585d02ba674ca5291002acba90edb03
+Merge: 594560e 1a8e009
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Mon May 22 17:08:25 2023 -0600
+
+    Resolviendo conflicto en estaciones del anio y fechas de inicio
+
+commit 594560ec456f0e61b2e5a8bc19bc170b11a276ca
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Sat May 20 15:03:45 2023 -0600
+
+    Agregando estaciones del anio con fecha de inicio
+
+commit 1a8e009917d0d8b4a484cb96555c71694dd16e93
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Sat May 20 15:03:45 2023 -0600
+
+    Agregando las estaciones del año
+
+commit e00ba07d88ea6e9c0d986b61101cc0b39807b664
+Merge: 8347733 9d16d07
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Sat May 20 13:22:06 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 9d16d0769db368340a426371546dbb0aae04d341
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Sat May 20 09:16:35 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 8347733a1edd235af7b2799ecf08211795ec0a5d
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Sat May 20 09:13:44 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 0a94a0e2d9f32454f0471fe8b1cd48ea3919169f
+Merge: d0ad2a7 afd884c
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Fri May 19 20:01:55 2023 -0600
+
+    Merge branch 'js'
+
+commit afd884c2652f78ac93ae3bca2808fd13e9780045
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Fri May 19 19:44:39 2023 -0600
+
+    Creando index.js
+
+commit d0ad2a78a723ac25cfd57596dbf163968c9e654c
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Fri May 19 18:10:51 2023 -0600
+
+    creando style.css
+
+commit 2a69ad61ed03369cfc66074db7724da8638d3b01
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Fri May 19 16:00:45 2023 -0600
+
+    Creando index.html
+
+commit 6d698661b4bcd1a1b3acac0f042e0d14b53e7079
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Fri May 19 15:39:51 2023 -0600
+
+    Ignorando el archivo .txt
+
+commit 892091b17207e0bad4b41f2e9c28df797afa59c5
+Author: mdominguezmin <133409000+mdominguezmin@users.noreply.github.com>
+Date:   Wed May 17 09:28:22 2023 -0600
+
+    Creando licencia de repositorio
+
+commit bfb344544495a3a1479953a631eb3a7046f4666c
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Mon May 15 16:17:57 2023 -0600
+
+    Agregando más contenido al README
+
+commit 0badb9eed59b8ebfdb53886fe34aa56ba788749f
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Mon May 15 09:26:59 2023 -0600
+
+    Agregando contenido inicial al README.
+
+commit b1cbe0d1c7b9e42406efdde942a242fadde5a028
+Author: Martin Dominguez <mdominguez@3fronteras.com.mx>
+Date:   Mon May 15 09:14:47 2023 -0600
+
+    Primer commit
